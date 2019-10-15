@@ -18,7 +18,3 @@ Shell Script to convert multicast IP to MAC address and contrary
 2. 
 
         $ convertmulticast -mi input_mac.txt
-
-
-
-
